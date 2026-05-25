@@ -284,7 +284,6 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
 ---
 
 # Notes
-
-- Share codes will be added once all exports finish rendering.
-- 3000-object versions preserve more detail but take longer to import/export.
-- Yes, this repo exists because I got bored.
+- 3000-object versions preserve more detail but can't be applied everywhere.
+- Yes, this repo exists because I got bored. Same like the other ones.
+- There is no donation page because many sites hate the fact im not 18 and pause payouts so i stopped linking them.

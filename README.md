@@ -104,8 +104,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 315 703 325 |
+| 3000 Objects | 168 415 870 |
 </details>
 
 <details>
@@ -113,8 +113,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 118 196 423 |
+| 3000 Objects | 118 544 551 |
 </details>
 
 <details>
@@ -122,8 +122,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 136 119 943 |
+| 3000 Objects | 978 260 625 |
 </details>
 
 <details>
@@ -131,8 +131,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 146 263 326 |
+| 3000 Objects | 114 327 443 |
 </details>
 
 <details>
@@ -140,8 +140,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 164 611 422 |
+| 3000 Objects | 149 948 462 |
 </details>
 
 <details>
@@ -149,8 +149,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 107 299 559 |
+| 3000 Objects | 158 462 739 |
 </details>
 
 <details>
@@ -158,8 +158,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 176 306 445 |
+| 3000 Objects | 124 220 311 |
 </details>
 
 <details>
@@ -167,8 +167,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 146 648 372 |
+| 3000 Objects | 706 990 735 |
 </details>
 
 <details>
@@ -176,7 +176,7 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
+| 1000 Objects | 892 714 998 |
 | 3000 Objects | 304 984 163 |
 </details>
 
@@ -185,8 +185,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 137 560 834 |
+| 3000 Objects | 115 326 251 |
 </details>
 
 <details>
@@ -194,8 +194,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 115 326 251 |
+| 3000 Objects | 403 518 138 |
 </details>
 
 <details>
@@ -212,8 +212,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 116 466 414 |
+| 3000 Objects | 123 889 765 |
 </details>
 
 <details>
@@ -221,8 +221,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 400 800 357 |
+| 3000 Objects | 936 608 334 |
 </details>
 
 <details>
@@ -230,8 +230,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 113 001 731 |
+| 3000 Objects | 535 198 514 |
 </details>
 
 <details>
@@ -239,8 +239,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 145 386 522 |
+| 3000 Objects | 183 484 724 |
 </details>
 
 <details>
@@ -248,8 +248,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 960 079 235 |
+| 3000 Objects | 124 369 079 |
 </details>
 
 <details>
@@ -257,8 +257,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 348 901 498 |
+| 3000 Objects | 137 801 403 |
 </details>
 
 <details>
@@ -266,8 +266,8 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
-| 3000 Objects | Pending |
+| 1000 Objects | 927 022 670 |
+| 3000 Objects | 129 727 311 |
   
 </details>
 
@@ -276,7 +276,7 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
   
 | Version | Share Code |
 |---|---|
-| 1000 Objects | Pending |
+| 1000 Objects | 990 553 012 |
 | 3000 Objects | 177 091 613 |
 
 </details>

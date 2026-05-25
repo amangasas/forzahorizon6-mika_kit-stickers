@@ -17,7 +17,7 @@ Made with Forza Painter v1.6.0 because apparently my GPU wasn't suffering enough
 
 <table>
 <tr>
-<td><img src="stickers/sticker.webp" width="220"></td>
+<td><img src="stickers/sticker (1).webp" width="220"></td>
 <td><img src="stickers/sticker (2).webp" width="220"></td>
 <td><img src="stickers/sticker (3).webp" width="220"></td>
 <td><img src="stickers/sticker (4).webp" width="220"></td>
